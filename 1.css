@@ -947,6 +947,7 @@ display: flex;
 .footer button img{
     width:50px;
     height:25px;
+    margin-left:-10px;
 }
 .footer hr {
     opacity: 20%;
